@@ -8,3 +8,6 @@
 # local secrets
 *.env
 secrets/
+
+01_publish_webhook_repo.md
+central-mist-webhook-repo.zip
