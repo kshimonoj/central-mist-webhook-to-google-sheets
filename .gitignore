@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# clasp (contains scriptId / deployment info)
+.clasp.json
+.clasprc.json
+
+# local secrets
+*.env
+secrets/
